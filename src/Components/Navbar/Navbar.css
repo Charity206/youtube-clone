@@ -1,3 +1,4 @@
+/* Some of the style used in navbar.jsx is a global style found in index.css such as flex-div. */
 nav{
     padding: 10px 2%;
     justify-content: space-between;
